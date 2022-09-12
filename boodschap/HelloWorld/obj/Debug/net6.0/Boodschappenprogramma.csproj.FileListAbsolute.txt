@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\bin\Debug\net6.0\Boodschappenprogramma.exe
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\bin\Debug\net6.0\Boodschappenprogramma.deps.json
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\bin\Debug\net6.0\Boodschappenprogramma.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\bin\Debug\net6.0\Boodschappenprogramma.dll
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\bin\Debug\net6.0\Boodschappenprogramma.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\obj\Debug\net6.0\Boodschappenprogramma.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\obj\Debug\net6.0\Boodschappenprogramma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\obj\Debug\net6.0\Boodschappenprogramma.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\obj\Debug\net6.0\Boodschappenprogramma.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\obj\Debug\net6.0\Boodschappenprogramma.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\obj\Debug\net6.0\Boodschappenprogramma.dll
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\obj\Debug\net6.0\refint\Boodschappenprogramma.dll
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\obj\Debug\net6.0\Boodschappenprogramma.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\obj\Debug\net6.0\Boodschappenprogramma.genruntimeconfig.cache
+C:\Users\Gebruiker\OneDrive\Documenten\coder\C#_for_unity\boodschap\HelloWorld\obj\Debug\net6.0\ref\Boodschappenprogramma.dll
